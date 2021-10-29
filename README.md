@@ -1,2 +1,2 @@
 # mogo
-Simple adaptive landing
+Simple adaptive landing, used jsquery
